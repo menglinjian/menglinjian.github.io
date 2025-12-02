@@ -25,7 +25,7 @@ redirect_from:
   <li><strong>2025.11</strong>: 🎉🎉 Twos papers are accepted to <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.</li>
   <li><strong>2025.09</strong>: 🎉🎉 Twos papers are accepted to <a href="https://neurips.cc/">NeurIPS 2025</a>.</li>
   <li><strong>2025.05</strong>: 🎉🎉 One paper is accepted to <a href="https://icml.cc/">ICML 2025</a>.</li>
-  <li><strong>2023.11</strong>: 🎉🎉 One paper is accepted to <a href="https://aaai.org/conference/aaai/aaai-23/">AAAI 2023</a>.</li>
+  <li><strong>2022.11</strong>: 🎉🎉 One paper is accepted to <a href="https://aaai.org/conference/aaai/aaai-23/">AAAI 2023</a>.</li>
 </ul>
 
 <h2 id="publications">📝 Selected Publications</h2>
