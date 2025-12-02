@@ -39,7 +39,7 @@ redirect_from:
     <em>In: AAAI 2026 Poster.</em>
   </li>
   <li><strong>Linjian Meng</strong>,  Youzhi Zhang,  Zhenxing Ge,  Tianyu Ding,  Shangdong Yang,  Zheng Xu,  Wenbin Li,  Yang Gao.  
-    <a href="https://openreview.net/forum?id=v771lscnlS">Linjian Meng,  Youzhi Zhang*,  Zhenxing Ge,  Tianyu Ding,  Shangdong Yang,  Zheng Xu,  Wenbin Li,  Yang Gao.</a>. 
+    <a href="https://openreview.net/forum?id=v771lscnlS">Last-Iterate Convergence of Smooth Regret Matching+ Variants in Learning Nash Equilibria</a>. 
     <em>In: NeurIPS 2025 Poster.</em>
   </li>
   <li><strong>Linjian Meng</strong>,  Tianpei Yang,  Youzhi Zhang,  Zhenxing Ge,  Shangdong Yang,  Tianyu Ding,  Wenbin Li,  Bo An,  Yang Gao.  
