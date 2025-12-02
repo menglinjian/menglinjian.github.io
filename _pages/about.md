@@ -52,6 +52,6 @@ redirect_from:
   </li>
   <li><strong>Linjian Meng</strong>, Zhenxing Ge,  Pinzhuo Tian,  Bo An,  Yang Gao.
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25722">An Efficient Deep Reinforcement Learning Algorithm for Solving Imperfect Information Extensive-Form Games</a>. 
-    <em>In: AAAI 2023 Oral <span style="color: #ff3300; font-weight: bold;">(Oral Presentation, top 10.8%)</span>.</em>
+    <em>In: AAAI 2023 <span style="color: #ff3300; font-weight: bold;">(Oral Presentation, top 10.8%)</span>.</em>
   </li>
 </ul>
