@@ -17,13 +17,16 @@ redirect_from:
 
 <h2 id="about-me">About Me</h2>
 
-<p>I am currently a PhD student of the School of Computer Science and Technology in <a href="http://www.nju.edu.cn/">Nanjing University</a> and a member of <a href="https://cs.nju.edu.cn/rl/index.htm">R&L Group</a>, led by Professor <a href="https://cs.nju.edu.cn/gaoyang/index.htm">Yang Gao</a>. I received my Bachelor's degree from <a href="hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>. My research interest includes <strong>algorithmic game theory</strong> and <strong>reinforcement learning</strong>.<p>
+<p>I am currently a PhD student of the School of Computer Science and Technology in <a href="http://www.nju.edu.cn/">Nanjing University</a> and a member of <a href="https://cs.nju.edu.cn/rl/index.htm">R&L Group</a>, led by Professor <a href="https://cs.nju.edu.cn/gaoyang/index.htm">Yang Gao</a>. I received my Bachelor's degree from <a href="hitsz.edu.cn/">Harbin Institute of Technology, Shenzhen</a>. My research interest includes <strong>algorithmic game theory</strong> and <strong>reinforcement learning</strong> in 2020.<p>
 
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<h2 id="news">🔥 News</h2>
+<ul>
+  <li><strong>2025.11</strong>: 🎉🎉 Twos papers </a> are accepted to <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.</li>
+  <li><strong>2025.09</strong>: 🎉🎉 Twos papers </a> are accepted to <a href="https://neurips.cc/">NeurIPS 2025</a>.</li>
+  <li><strong>2025.05</strong>: 🎉🎉 One paper </a> is accepted to <a href="https://neurips.cc/">NeurIPS 2025</a>.</li>
+  <li><strong>2023.11</strong>: 🎉🎉 One paper </a> is accepted to <a href="https://aaai.org/conference/aaai/aaai-23/">AAAI 2023</a>.</li>
+</ul>
 
 # 📝 Publications 
 
