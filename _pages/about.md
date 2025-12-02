@@ -32,7 +32,7 @@ redirect_from:
 <ul>
   <li><strong>Linjian Meng</strong>,  Tianpei Yang,  Youzhi Zhang,  Zhenxing Ge,  Yang Gao.  
     <a href="https://arxiv.org/abs/2503.12770">Faster game solving via asymmetry of step sizes</a>. 
-    <em>In: AAAI 2026 Oral.</em>
+    <em>In: AAAI 2026 <span style="color: #ff3300; font-weight: bold;">(Oral Presentation)</span>.</em>
   </li>
   <li>Shuxin Zhuang*, <strong>Linjian Meng*</strong>, Shuxin Li,  Minming Li,  Youzhi Zhang.  
     <a href="https://arxiv.org/abs/2511.10072">Tree-based stochastic optimization for solving large-scale urban network security games</a>. 
@@ -48,10 +48,10 @@ redirect_from:
   </li>
   <li><strong>Linjian Meng</strong>,  Wubing Chen, Wenbin Li, Tianpei Yang, Youzhi Zhang, Yang Gao.  
     <a href="https://openreview.net/forum?id=Hp53p5AU7X&noteId=g4BmuYpxVB">Reducing variance of stochastic optimization for approximating Nash equilibria in normal-form games</a>. 
-    <em>In: ICML 2025 Spotlight Poster.</em>
+    <em>In: ICML 2025 <span style="color: #ff3300; font-weight: bold;">(Spotlight Poster, top 2.6%)</span>.</em>
   </li>
   <li><strong>Linjian Meng</strong>, Zhenxing Ge,  Pinzhuo Tian,  Bo An,  Yang Gao.
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25722">An Efficient Deep Reinforcement Learning Algorithm for Solving Imperfect Information Extensive-Form Games</a>. 
-    <em>In: AAAI 2023 Oral.</em>
+    <em>In: AAAI 2023 Oral <span style="color: #ff3300; font-weight: bold;">(Oral Presentation, top 10.8%)</span>.</em>
   </li>
 </ul>
