@@ -36,15 +36,15 @@ redirect_from:
   </li>
   <li>Shuxin Zhuang*, <strong>Linjian Meng*</strong>, Shuxin Li,  Minming Li,  Youzhi Zhang.  
     <a href="https://arxiv.org/abs/2511.10072">Tree-based stochastic optimization for solving large-scale urban network security games</a>. 
-    <em>In: AAAI 2026 Poster.</em>
+    <em>In: AAAI 2026.</em>
   </li>
   <li><strong>Linjian Meng</strong>,  Youzhi Zhang,  Zhenxing Ge,  Tianyu Ding,  Shangdong Yang,  Zheng Xu,  Wenbin Li,  Yang Gao.  
     <a href="https://openreview.net/forum?id=v771lscnlS">Last-Iterate Convergence of Smooth Regret Matching+ Variants in Learning Nash Equilibria</a>. 
-    <em>In: NeurIPS 2025 Poster.</em>
+    <em>In: NeurIPS 2025.</em>
   </li>
   <li><strong>Linjian Meng</strong>,  Tianpei Yang,  Youzhi Zhang,  Zhenxing Ge,  Shangdong Yang,  Tianyu Ding,  Wenbin Li,  Bo An,  Yang Gao.  
     <a href="https://openreview.net/forum?id=JzWtqd9CGJ">Efficient last-iterate convergence in solving extensive-form games</a>. 
-    <em>In: NeurIPS 2025 Poster.</em>
+    <em>In: NeurIPS 2025.</em>
   </li>
   <li><strong>Linjian Meng</strong>,  Wubing Chen, Wenbin Li, Tianpei Yang, Youzhi Zhang, Yang Gao.  
     <a href="https://openreview.net/forum?id=Hp53p5AU7X&noteId=g4BmuYpxVB">Reducing variance of stochastic optimization for approximating Nash equilibria in normal-form games</a>. 
