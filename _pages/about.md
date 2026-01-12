@@ -28,8 +28,16 @@ redirect_from:
   <li><strong>2022.11</strong>: 🎉🎉 One paper is accepted to <a href="https://aaai.org/conference/aaai/aaai-23/">AAAI 2023</a>.</li>
 </ul>
 
-<h2 id="publications">📝 Selected Publications</h2>
+<h2 id="publications">📝 Selected Publications (*Equal Contribution, #Corresponding Author)</h2>
 <ul>
+  <li>Siyuan Gan, Jiaheng Liu, Boyan Wang, Tianpei Yang, Runqing Miao, Yuyao Zhang, Fanyu Meng, Junlan Feng, <strong>Linjian Meng*</strong>, Jing Huo*, Yang Gao.  
+    <a href="https://www.arxiv.org/pdf/2601.04805">Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning</a>. 
+    <em>In: Arxiv.</em>
+  </li>
+  <li><strong>Linjian Meng</strong>,  Tianpei Yang,  Youzhi Zhang,  Zhenxing Ge,  Yang Gao.  
+    <a href="https://arxiv.org/abs/2503.12770">Faster game solving via asymmetry of step sizes</a>. 
+    <em>In: AAAI 2026 <span style="color: #ff3300; font-weight: bold;">(Oral Presentation)</span>.</em>
+  </li>
   <li><strong>Linjian Meng</strong>,  Tianpei Yang,  Youzhi Zhang,  Zhenxing Ge,  Yang Gao.  
     <a href="https://arxiv.org/abs/2503.12770">Faster game solving via asymmetry of step sizes</a>. 
     <em>In: AAAI 2026 <span style="color: #ff3300; font-weight: bold;">(Oral Presentation)</span>.</em>
