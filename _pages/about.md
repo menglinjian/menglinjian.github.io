@@ -38,10 +38,6 @@ redirect_from:
     <a href="https://arxiv.org/abs/2503.12770">Faster game solving via asymmetry of step sizes</a>. 
     <em>In: AAAI 2026 <span style="color: #ff3300; font-weight: bold;">(Oral Presentation)</span>.</em>
   </li>
-  <li><strong>Linjian Meng</strong>,  Tianpei Yang,  Youzhi Zhang,  Zhenxing Ge,  Yang Gao.  
-    <a href="https://arxiv.org/abs/2503.12770">Faster game solving via asymmetry of step sizes</a>. 
-    <em>In: AAAI 2026 <span style="color: #ff3300; font-weight: bold;">(Oral Presentation)</span>.</em>
-  </li>
   <li>Shuxin Zhuang*, <strong>Linjian Meng*</strong>, Shuxin Li,  Minming Li,  Youzhi Zhang.  
     <a href="https://arxiv.org/abs/2511.10072">Tree-based stochastic optimization for solving large-scale urban network security games</a>. 
     <em>In: AAAI 2026.</em>
