@@ -30,7 +30,7 @@ redirect_from:
 
 <h2 id="publications">📝 Selected Publications (*Equal Contribution, #Corresponding Author)</h2>
 <ul>
-  <li>Siyuan Gan, Jiaheng Liu, Boyan Wang, Tianpei Yang, Runqing Miao, Yuyao Zhang, Fanyu Meng, Junlan Feng, <strong>Linjian Meng*</strong>, Jing Huo*, Yang Gao.  
+  <li>Siyuan Gan, Jiaheng Liu, Boyan Wang, Tianpei Yang, Runqing Miao, Yuyao Zhang, Fanyu Meng, Junlan Feng, <strong>Linjian Meng#</strong>, Jing Huo#, Yang Gao.  
     <a href="https://www.arxiv.org/pdf/2601.04805">Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning</a>. 
     <em>In: Arxiv.</em>
   </li>
