@@ -31,7 +31,7 @@ redirect_from:
 
 <h2 id="publications">📝 Selected Publications (*Equal Contribution, #Corresponding Author)</h2>
 <ul>
-  <li><li><strong>Linjian Meng</strong>, Youzhi Zhang, Shangdong Yang, Wenbin Li, Tianyu Ding, Yang Gao.  
+  <li><strong>Linjian Meng</strong>, Youzhi Zhang, Shangdong Yang, Wenbin Li, Tianyu Ding, Yang Gao.  
     <a href="https://openreview.net/forum?id=JLllvi7dsg">A Faster Parameter-Free Regret Matching Algorithm</a>. 
     <em>In: ICLR 2026.</em>
   </li>
