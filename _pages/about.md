@@ -22,14 +22,19 @@ redirect_from:
 
 <h2 id="news">🔥 News</h2>
 <ul>
-  <li><strong>2025.11</strong>: 🎉🎉 Twos papers are accepted to <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.</li>
-  <li><strong>2025.09</strong>: 🎉🎉 Twos papers are accepted to <a href="https://neurips.cc/">NeurIPS 2025</a>.</li>
+  <li><strong>2026.01</strong>: 🎉🎉 One paper is accepted to <a href="https://iclr.cc/">ICLR 2026</a>.</li>
+  <li><strong>2025.11</strong>: 🎉🎉 Two papers are accepted to <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.</li>
+  <li><strong>2025.09</strong>: 🎉🎉 Two papers are accepted to <a href="https://neurips.cc/">NeurIPS 2025</a>.</li>
   <li><strong>2025.05</strong>: 🎉🎉 One paper is accepted to <a href="https://icml.cc/">ICML 2025</a>.</li>
   <li><strong>2022.11</strong>: 🎉🎉 One paper is accepted to <a href="https://aaai.org/conference/aaai/aaai-23/">AAAI 2023</a>.</li>
 </ul>
 
 <h2 id="publications">📝 Selected Publications (*Equal Contribution, #Corresponding Author)</h2>
 <ul>
+  <li><li><strong>Linjian Meng</strong>, Youzhi Zhang, Shangdong Yang, Wenbin Li, Tianyu Ding, Yang Gao.  
+    <a href="https://openreview.net/forum?id=JLllvi7dsg">A Faster Parameter-Free Regret Matching Algorithm</a>. 
+    <em>In: ICLR 2026.</em>
+  </li>
   <li>Siyuan Gan, Jiaheng Liu, Boyan Wang, Tianpei Yang, Runqing Miao, Yuyao Zhang, Fanyu Meng, Junlan Feng, <strong>Linjian Meng#</strong>, Jing Huo#, Yang Gao.  
     <a href="https://www.arxiv.org/pdf/2601.04805">Thinking-Based Non-Thinking: Solving the Reward Hacking Problem in Training Hybrid Reasoning Models via Reinforcement Learning</a>. 
     <em>In: Arxiv.</em>
