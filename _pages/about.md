@@ -22,7 +22,7 @@ redirect_from:
 
 <h2 id="news">🔥 News</h2>
 <ul>
-  <li><strong>2026.01</strong>: 🎉🎉 One paper is accepted to <a href="https://2026.aclweb.org/">ACL 2026</a>.</li>
+  <li><strong>2026.04</strong>: 🎉🎉 One paper is accepted to <a href="https://2026.aclweb.org/">ACL 2026</a>.</li>
   <li><strong>2026.01</strong>: 🎉🎉 One paper is accepted to <a href="https://iclr.cc/">ICLR 2026</a>.</li>
   <li><strong>2025.11</strong>: 🎉🎉 Two papers are accepted to <a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a>.</li>
   <li><strong>2025.09</strong>: 🎉🎉 Two papers are accepted to <a href="https://neurips.cc/">NeurIPS 2025</a>.</li>
