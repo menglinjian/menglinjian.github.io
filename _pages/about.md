@@ -17,7 +17,7 @@ redirect_from:
 
 <h2 id="about-me">About Me</h2>
 
-<p>I am currently a PhD student of the School of Computer Science and Technology in <a href="http://www.nju.edu.cn/">Nanjing University</a> and a member of <a href="https://cs.nju.edu.cn/rl/index.htm">R&L Group</a>, led by Professor <a href="https://cs.nju.edu.cn/gaoyang/index.htm">Yang Gao</a>. I received my Bachelor's degree from <a href="https://www.hitsz.edu.cn/index.html">Harbin Institute of Technology, Shenzhen</a> in 2020. My research interest includes <strong>algorithmic game theory</strong> and <strong>reinforcement learning</strong>.<p>
+<p>I'm a researcher at <a href="https://www.shlab.org.cn/">Shanghai Artificial Intelligence Laboratory</a>. I received my PhD degree from Computer Science and Technology, <a href="http://www.nju.edu.cn/">Nanjing University</a> in December 2025, advised by Professor <a href="https://cs.nju.edu.cn/gaoyang/index.htm">Yang Gao</a>. Before my PhD, I obtained my Bachelor degree from <a href="https://www.hitsz.edu.cn/index.html">Harbin Institute of Technology, Shenzhen</a> in 2020. My research interest includes <strong>reinforcement learning</strong>, <strong>multi-agent system</strong> and <strong>optimization</strong>.<p>
 
 
 <h2 id="news">🔥 News</h2>
