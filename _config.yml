@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Linjian Meng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanjing University"
-  location         : "Nanjing, China"
+  bio              : "Shanghai Artificial Intelligence Laboratory"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=a3m6zbsAAAAJ"
-  email            : "menglinjian@smail.nju.edu.cn"
+  email            : "menglinjian@pjlab.org.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
